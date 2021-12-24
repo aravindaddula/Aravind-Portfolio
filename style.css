@@ -1,4 +1,4 @@
-@import {url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap")}
+/* @import { url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap")} */
 
 :root {
     --primary-color: #10B981;
@@ -70,6 +70,12 @@ hr {
     display: inline;
     padding: 0rem 0.5rem;
 
+}
+/**  Applied to technologies  **/
+#tech_btn{
+    font-size: 100% ;
+    margin: 2%;
+    padding: 2%;
 }
 
 /** navigation **/
